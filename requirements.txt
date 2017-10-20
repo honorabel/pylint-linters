@@ -1,0 +1,9 @@
+# Lint libraries
+astroid==1.5.2
+pylint==1.7.1
+
+# Testing utils
+mock==2.0.0
+nose
+nose-exclude
+parameterized==0.6.1
